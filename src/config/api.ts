@@ -1,6 +1,5 @@
 // API Configuration
-const API_URL = import.meta.env.VITE_API_URL || 'https://esse-aqui-midia-backend.vercel.app/api';
-
+const API_URL = import.meta.env.VITE_API_URL || 'https://esse-aqui-midia.vercel.app/api';
 export const API_CONFIG = {
   BASE_URL: API_URL,
   TIMEOUT: 30000,
