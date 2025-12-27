@@ -1,0 +1,3 @@
+Build: 2025-12-27T11:55:00Z
+API: https://esse-aqui-midia.vercel.app/api
+Version: 1.0.1
